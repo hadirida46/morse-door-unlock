@@ -5,7 +5,7 @@ import time
 
 def send_mail(subject, body, to_email):
     from_email = "hadirida46@gmail.com"
-    password = "lbqi zwzy rltk ensk"
+    password = "app password"
 
     msg = MIMEText(body)
     msg['Subject'] = subject
