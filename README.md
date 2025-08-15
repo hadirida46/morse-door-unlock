@@ -14,4 +14,4 @@ This project lets you unlock a door using Morse code, with the added feature of 
 ## 🧰 Tech Used
 
 - Arduino Uno (LCD, Push Button, Servo Motor, Buzzer, LED)
-- Python (with `smtplib` or similar)
+- Python smtplib
