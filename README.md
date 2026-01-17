@@ -3,8 +3,8 @@
 This project allows you to unlock a door by entering a specific name or code in **Morse code**. For added security and monitoring, the system sends an automated email notification every time the door is successfully unlocked.
 
 ## 📺 Project Presentation
-Watch or download the full project demonstration here:
-[**Download Video Presentation**](https://github.com/hadirida46/morse-door-unlock/blob/main/Video%20Project%20Presentation.mp4)
+Click the link below to download the video demonstration directly:
+[**📥 Download Video Presentation**](https://raw.githubusercontent.com/hadirida46/morse-door-unlock/main/Video%20Project%20Presentation.mp4)
 
 ---
 
